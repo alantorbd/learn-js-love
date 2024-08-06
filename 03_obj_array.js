@@ -14,7 +14,7 @@
 // console.log(obj2.name);
 // obj.city = "Kushtia";
 // console.log(obj);
-// delete obj.name;
+// delete obj.name;g
 // console.log(obj);
 
 //------------------------array------------------------
